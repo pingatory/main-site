@@ -10,7 +10,7 @@ function Nav() {
     window.navigate("https://radon.games/games");
   }
   function catsGo() {
-    window.navigate("https://your.custom.page/here");
+    window.navigate("https://pingatory.pages.dev/");
   }
 
   function dogsGo() {
